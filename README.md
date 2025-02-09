@@ -1,6 +1,5 @@
 <h1>Hi, I'm Manojit! <br/>
   <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Consultant</a>, 
- # <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cloud Security Projects:</h2>
 
